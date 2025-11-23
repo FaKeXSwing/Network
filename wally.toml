@@ -1,0 +1,6 @@
+[package]
+name = "network"
+version = "1.0.0"
+description = "A utility for fetching and creating classes such as RemoteEvents during runtime."
+author = "fakexswing"
+license = "MIT"
